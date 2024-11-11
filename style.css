@@ -1,0 +1,228 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: rgb(211, 245, 233);
+    
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+    text-shadow: 2px 0 rgb(240, 217, 240);
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 80px;
+    text-shadow:2px 0 #FFD700;
+}
+.container{
+    margin-left:15px ;
+}
+.key{
+    width: 30px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+    
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+    color: #FFD700;
+}
+.golden{
+    background-color:#FFD700;
+}
+
+@media(max-width:915px){
+    .container{
+        margin-left:10px ;
+    }
+}
+@media(max-width:906px){
+    .container{
+        margin-left:5px ;
+    }
+}
+@media(max-width:901px){
+    .container{
+        margin-left:0px ;
+    }
+}
+@media(max-width:896px){
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 29px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:888px){
+    .container{
+        margin-left:10px ;
+    }
+    .key{
+        width: 29px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:882px){
+    .container{
+        margin-left:5px ;
+    }
+    .key{
+        width: 29px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:877px){
+    .container{
+        margin-left:0px ;
+    }
+    .key{
+        width: 29px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:871px){
+    .container{
+        margin-left:10px ;
+    }
+    .key{
+        width: 28px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:856px){
+    .container{
+        margin-left:0px ;
+    }
+    .key{
+        width: 28px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:846px){
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 27px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:836px){
+    .container{
+        margin-left:10px ;
+    }
+    .key{
+        width: 27px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:831px){
+    .container{
+        margin-left:0px ;
+    }
+    .key{
+        width: 27px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:831px){
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 26px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:812px){
+    .container{
+        margin-left:0px ;
+    }
+    .key{
+        width: 26px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:796px){
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 25px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
+@media(max-width:786px){
+    .container{
+        margin-left:0px ;
+    }
+    .key{
+        width: 25px;
+        height: 200px;
+        border: 1px solid black;
+        display: inline-table;
+        justify-content: space-between;
+        
+    }
+}
