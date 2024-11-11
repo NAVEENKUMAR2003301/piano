@@ -18,8 +18,8 @@ h1{
 p{
     text-align: center;
     font-size: 15px;
-    margin-bottom: 80px;
-    text-shadow:2px 0 #FFD700;
+    margin-bottom: 25px;
+    text-shadow:2px 0 #FFD250;
 }
 .container{
     margin-left:15px ;
@@ -37,30 +37,30 @@ p{
 }
 .black{
     background-color: black;
-    color: #FFD700;
+    color: #FFD250;
 }
 .golden{
-    background-color:#FFD700;
+    background-color:#FFD250;
 }
-@media(max-width:1500px){
+@media(max-width:1440px){
     h1{ 
-        font-size: 50px;
+        font-size: 45px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 20px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 52px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -68,23 +68,23 @@ p{
 }
 @media(max-width:1463px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 30px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 30px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 51px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -92,23 +92,23 @@ p{
 }
 @media(max-width:1437px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 30px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 30px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
-        width: 50px;
-        height: 400px;
+        width: 44px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -116,47 +116,47 @@ p{
 }
 @media(max-width:1415px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 30px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 30px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 49px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
     }
 }
-@media(max-width:1400px){
+@media(max-width:1250px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 49px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -164,23 +164,23 @@ p{
 }
 @media(max-width:1386px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:0px ;
     }
     .key{
         width: 49px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -188,23 +188,23 @@ p{
 }
 @media(max-width:1371px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 48px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -212,47 +212,47 @@ p{
 }
 @media(max-width:1361px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 48px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
     }
 }
-@media(max-width:1351px){
+@media(max-width:1251px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:15px ;
     }
     .key{
         width: 47px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -260,23 +260,23 @@ p{
 }
 @media(max-width:1336px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 55px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:0px ;
     }
     .key{
         width: 47px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -284,23 +284,23 @@ p{
 }
 @media(max-width:1321px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 50px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 44px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 46px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -308,23 +308,23 @@ p{
 }
 @media(max-width:1306px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 45px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -332,23 +332,23 @@ p{
 }
 @media(max-width:1281px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:0px ;
     }
     .key{
         width: 45px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -356,23 +356,23 @@ p{
 }
 @media(max-width:1271px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 44px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -380,23 +380,23 @@ p{
 }
 @media(max-width:1256px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 43px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -404,23 +404,23 @@ p{
 }
 @media(max-width:1231px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 42px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -428,23 +428,23 @@ p{
 }
 @media(max-width:1206px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 40px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:10px ;
     }
     .key{
         width: 41px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -452,23 +452,23 @@ p{
 }
 @media(max-width:1181px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:20px ;
     }
     .key{
         width: 40px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -476,23 +476,23 @@ p{
 }
 @media(max-width:1166px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 40px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -500,23 +500,23 @@ p{
 }
 @media(max-width:1151px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 39px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -524,23 +524,23 @@ p{
 }
 @media(max-width:1126px){
     h1{ 
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 38px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -548,23 +548,23 @@ p{
 }
 @media(max-width:1101px){
     h1{
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 37px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -572,23 +572,23 @@ p{
 }
 @media(max-width:1076px){
     h1{
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 36px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -596,23 +596,23 @@ p{
 }
 @media(max-width:1051px){
     h1{
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
-        width: 35px;
-        height: 400px;
+        width: 25px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -620,23 +620,23 @@ p{
 }
 @media(max-width:1025px){
     h1{
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 34px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -644,23 +644,23 @@ p{
 }
 @media(max-width:1001px){
     h1{
-        font-size: 50px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 39px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 33px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -670,21 +670,21 @@ p{
     h1{
         font-size: 45px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 35px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 32px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -694,21 +694,21 @@ p{
     h1{
         font-size: 45px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 35px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 31px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -718,21 +718,21 @@ p{
     h1{
         font-size: 45px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 35px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 31px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -742,21 +742,21 @@ p{
     h1{
         font-size: 45px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 35px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        font-size: 25px;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .container{
         margin-left:5px ;
     }
     .key{
         width: 30px;
-        height: 400px;
+        height: 250px;
         border: 1px solid black;
         display: inline-block;
         
@@ -797,14 +797,14 @@ p{
     h1{
         font-size: 40px;
         text-align: center;
-        margin-bottom: 70px;
+        margin-bottom: 25px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 30px;
-        margin-bottom: 80px;
-        text-shadow:2px 0 #FFD700;
+        margin-bottom: 25px;
+        text-shadow:2px 0 #FFD250;
     }
     .key{
         width: 29px;
