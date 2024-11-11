@@ -29,6 +29,7 @@ p{
     height: 200px;
     border: 1px solid black;
     display: inline-block;
+    box-shadow: 1px 0 rgb(54, 53, 53);
     
 }
 .white{
