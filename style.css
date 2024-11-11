@@ -44,19 +44,19 @@ p{
 }
 @media(max-width:1440px){
     h1{ 
-        font-size: 35px;
+        font-size: 40px;
         text-align: center;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
-        margin-bottom: 30px;
+        font-size: 40px;
+        margin-bottom: 40px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
-        margin-left:15px ;
+        margin-left:15px;
     }
     .key{
         width: 52px;
@@ -70,13 +70,13 @@ p{
     h1{ 
         font-size: 44px;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 40px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
         font-size: 30px;
-        margin-bottom: 30px;
+        margin-bottom: 40px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
