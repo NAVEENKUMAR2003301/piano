@@ -1,3 +1,4 @@
+alert("Hi, Are You using Mobile Kindly On Landscape Mode");
 var SelectAllKeys = document.querySelectorAll(".key").length;
 for(var i=0;i<SelectAllKeys;i++){
     document.querySelectorAll(".key")[i].addEventListener("click",function(){
