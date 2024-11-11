@@ -42,6 +42,102 @@ p{
 .golden{
     background-color:#FFD700;
 }
+@media(max-width:1500px){
+    h1{ 
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 55px;
+        margin-bottom: 80px;
+        text-shadow:2px 0 #FFD700;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 52px;
+        height: 400px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1463px){
+    h1{ 
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 55px;
+        margin-bottom: 80px;
+        text-shadow:2px 0 #FFD700;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 51px;
+        height: 400px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1437px){
+    h1{ 
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 55px;
+        margin-bottom: 80px;
+        text-shadow:2px 0 #FFD700;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 50px;
+        height: 400px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1415px){
+    h1{ 
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 55px;
+        margin-bottom: 80px;
+        text-shadow:2px 0 #FFD700;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 49px;
+        height: 400px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
 @media(max-width:1400px){
     h1{ 
         font-size: 50px;
