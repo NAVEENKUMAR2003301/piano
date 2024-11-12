@@ -42,17 +42,17 @@ p{
 .golden{
     background-color:#FFD230;
 }
-@media(max-width:1440px){
+@media(max-width:1500px){
     h1{ 
-        font-size: 40px;
+        font-size: 48px;
         text-align: center;
-        margin-bottom: 40px;
+        margin-bottom: 70px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 40px;
-        margin-bottom: 40px;
+        font-size: 50px;
+        margin-bottom: 70px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
@@ -60,7 +60,31 @@ p{
     }
     .key{
         width: 52px;
-        height: 230px;
+        height: 370px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1485px){
+    h1{ 
+        font-size: 48px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 50px;
+        margin-bottom: 90px;
+        text-shadow:2px 0 #FFD230;
+    }
+    .container{
+        margin-left:15px;
+    }
+    .key{
+        width: 52px;
+        height: 390px;
         border: 1px solid black;
         display: inline-block;
         
@@ -68,15 +92,15 @@ p{
 }
 @media(max-width:1463px){
     h1{ 
-        font-size: 44px;
+        font-size: 45px;
         text-align: center;
-        margin-bottom: 40px;
+        margin-bottom: 90px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
-        margin-bottom: 40px;
+        font-size: 50px;
+        margin-bottom: 90px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
@@ -84,7 +108,7 @@ p{
     }
     .key{
         width: 51px;
-        height: 230px;
+        height: 330px;
         border: 1px solid black;
         display: inline-block;
         
@@ -92,23 +116,47 @@ p{
 }
 @media(max-width:1437px){
     h1{ 
-        font-size: 44px;
+        font-size: 50px;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 70px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
-        margin-bottom: 30px;
+        font-size: 50px;
+        margin-bottom: 90px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
         margin-left:15px ;
     }
     .key{
-        width: 44px;
-        height: 230px;
+        width: 51px;
+        height: 330px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1436px){
+    h1{ 
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 50px;
+        margin-bottom: 90px;
+        text-shadow:2px 0 #FFD230;
+    }
+    .container{
+        margin-left:5px ;
+    }
+    .key{
+        width: 51px;
+        height: 330px;
         border: 1px solid black;
         display: inline-block;
         
@@ -118,13 +166,13 @@ p{
     h1{ 
         font-size: 44px;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 70px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
-        margin-bottom: 30px;
+        font-size: 50px;
+        margin-bottom: 70px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
@@ -132,7 +180,55 @@ p{
     }
     .key{
         width: 49px;
-        height: 230px;
+        height: 330px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1385px){
+    h1{ 
+        font-size: 44px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 50px;
+        margin-bottom: 70px;
+        text-shadow:2px 0 #FFD230;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 49px;
+        height: 350px;
+        border: 1px solid black;
+        display: inline-block;
+        
+    }
+}
+@media(max-width:1379px){
+    h1{ 
+        font-size: 47px;
+        text-align: center;
+        margin-bottom: 70px;
+        text-shadow: 2px 0 rgb(240, 217, 240);
+    }
+    p{
+        text-align: center;
+        font-size: 50px;
+        margin-bottom: 70px;
+        text-shadow:2px 0 #FFD230;
+    }
+    .container{
+        margin-left:15px ;
+    }
+    .key{
+        width: 49px;
+        height: 330px;
         border: 1px solid black;
         display: inline-block;
         
@@ -142,13 +238,13 @@ p{
     h1{ 
         font-size: 44px;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
-        margin-bottom: 30px;
+        font-size: 50px;
+        margin-bottom: 50px;
         text-shadow:2px 0 #FFD230;
     }
     .container{
@@ -156,7 +252,7 @@ p{
     }
     .key{
         width: 49px;
-        height: 230px;
+        height: 270px;
         border: 1px solid black;
         display: inline-block;
         
@@ -164,14 +260,14 @@ p{
 }
 @media(max-width:1386px){
     h1{ 
-        font-size: 443px;
+        font-size: 44px;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 35px;
         text-shadow: 2px 0 rgb(240, 217, 240);
     }
     p{
         text-align: center;
-        font-size: 30px;
+        font-size: 50px;
         margin-bottom: 30px;
         text-shadow:2px 0 #FFD230;
     }
@@ -180,7 +276,7 @@ p{
     }
     .key{
         width: 49px;
-        height: 230px;
+        height: 270px;
         border: 1px solid black;
         display: inline-block;
         
