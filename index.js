@@ -1,3 +1,4 @@
+alert("Hi,Are You Using Mobile Kindly On Landscape Mode");
 var numberOfbottle = document.querySelectorAll(".key").length;
 for(var i=0;i<numberOfbottle;i++){
     document.querySelectorAll(".key")[i].addEventListener("click",function(){
@@ -90,7 +91,7 @@ function makeSound(key){
         audio.play();
     break;
     case"t":
-        var audio = new Audio("e6-82013.mp3");
+        var audio = new Audio("B3.mp3");
         audio.play();
     break;
     case"u":
